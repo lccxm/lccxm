@@ -2,8 +2,8 @@
 
 - 🔭 atualmente estou estudando react na parte de desenvolvimento web e participando de programas de bug bounty.
 
-Curriculo:
-
+## Curriculo:
+![Screenshot](Lucca_Molon_Curriculo_2020.png)
 
 
 
