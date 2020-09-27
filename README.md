@@ -1,8 +1,8 @@
-### Eai meu nome é Lucca AKA lccxm 
+### Olá, meu nome é Lucca AKA lccxm
 
-- 🔭 atualmente estou estudando react na parte de desenvolvimento web e participando de programas de bug bounty.
+- 🔭 Atualmente estou estudando react na parte de desenvolvimento web e participando de programas de bug bounty.
 
-## Curriculo:
+## Currículo:
 ![Screenshot](Lucca_Molon_Curriculo_2020.png)
 
 
