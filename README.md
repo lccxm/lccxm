@@ -2,8 +2,6 @@
 
 ## 🔭 Atualmente estou estudando node js na parte de desenvolvimento web e participando de programas de bug bounty.
 
-## Currículo:
-![Screenshot](Lucca_Molon_Curriculo_2020.png)
 
 
 
