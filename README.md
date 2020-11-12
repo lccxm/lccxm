@@ -1,6 +1,6 @@
 # Olá, meu nome é Lucca AKA lccxm
 
-## 🔭 Atualmente estou estudando node js na parte de desenvolvimento web e participando de programas de bug bounty.
+## 🔭 Atualmente estou estudando fazendo o bootcamp da rocketseat na stack nodeJS, ReactJS e React Native :) 
 
 
 
