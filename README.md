@@ -1,6 +1,6 @@
-# Olá, meu nome é Lucca AKA lccxm
+# Olá, meu nome é Lucca
 
-## iOS developer, tech lover and sometimes bug bounty hunter :)
+## iOS developer
 
 
 
