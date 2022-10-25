@@ -1,6 +1,6 @@
-# Olá, meu nome é Lucca
+# Welcome! I'm Lucca :)
 
-## iOS developer
+## Currently working as a iOS Developer at Apple Developer Academy | PUCRS
 
 
 
