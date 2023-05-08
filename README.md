@@ -1,6 +1,6 @@
 # Welcome! I'm Lucca :)
 
-## Currently working as a iOS Developer at Apple Developer Academy | PUCRS
+## iOS Developer 
 
 
 
